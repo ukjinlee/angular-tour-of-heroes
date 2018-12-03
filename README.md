@@ -1,6 +1,7 @@
-# AngularTourOfHeroes
+# Tour of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+The app that helps a staffing agency manage its stable of heroes.
+(https://angular.io/generated/images/guide/toh/nav-diagram.png)
 
 ## Development server
 
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Reference
+
+https://angular.io/tutorial
